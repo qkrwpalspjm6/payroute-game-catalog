@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T11:47:52.697Z",
+  "updatedAt": "2026-09-12T11:51:54.925Z",
   "source": "Official web stores + Apple App Store KR",
   "currency": "KRW",
   "selectionPolicy": {
@@ -6125,46 +6125,12 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1105855019:05c1752e836a",
+      "sourceId": "appstore-kr:1105855019:0b3b1cf140b0",
       "gameSlug": "app-1105855019",
       "gameName": "Gardenscapes",
-      "name": "디스코 타임",
-      "price": 25000,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1105855019:9d5a1560fb8d",
-      "gameSlug": "app-1105855019",
-      "gameName": "Gardenscapes",
-      "name": "디스코 타임",
-      "price": 1100,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1105855019:f44cba628018",
-      "gameSlug": "app-1105855019",
-      "gameName": "Gardenscapes",
-      "name": "디스코 타임",
+      "name": "동전 1000개",
       "price": 3300,
-      "currencyAmount": 0,
+      "currencyAmount": 1000,
       "maxQuantity": null,
       "platform": "ios",
       "platformPriceDifferent": true,
@@ -6176,10 +6142,27 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1105855019:a207a885fdd2",
+      "sourceId": "appstore-kr:1105855019:71fc26363b52",
       "gameSlug": "app-1105855019",
       "gameName": "Gardenscapes",
-      "name": "디스코 타임",
+      "name": "동전 1000개",
+      "price": 1100,
+      "currencyAmount": 1000,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1105855019:1495604b2a78",
+      "gameSlug": "app-1105855019",
+      "gameName": "Gardenscapes",
+      "name": "황금 저금통",
       "price": 4400,
       "currencyAmount": 0,
       "maxQuantity": null,
@@ -6193,11 +6176,11 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1105855019:d803ebde27b7",
+      "sourceId": "appstore-kr:1105855019:0fa977c7f870",
       "gameSlug": "app-1105855019",
       "gameName": "Gardenscapes",
-      "name": "디스코 타임",
-      "price": 17000,
+      "name": "파격 할인",
+      "price": 3300,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
@@ -6210,11 +6193,11 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1105855019:5abe17fc92ba",
+      "sourceId": "appstore-kr:1105855019:957df23d3c53",
       "gameSlug": "app-1105855019",
       "gameName": "Gardenscapes",
-      "name": "디스코 타임",
-      "price": 22000,
+      "name": "식물학자 키트",
+      "price": 9900,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
@@ -6227,11 +6210,11 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1105855019:f9d9292db732",
+      "sourceId": "appstore-kr:1105855019:1a0359fd9965",
       "gameSlug": "app-1105855019",
       "gameName": "Gardenscapes",
-      "name": "디스코 타임",
-      "price": 6600,
+      "name": "정원 키트",
+      "price": 1100,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
@@ -6244,10 +6227,10 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1105855019:f329abbbf03f",
+      "sourceId": "appstore-kr:1105855019:c57428eb9c3d",
       "gameSlug": "app-1105855019",
       "gameName": "Gardenscapes",
-      "name": "디스코 타임",
+      "name": "황금 티켓",
       "price": 7700,
       "currencyAmount": 0,
       "maxQuantity": null,
@@ -6261,11 +6244,28 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1105855019:1dce700a0a0f",
+      "sourceId": "appstore-kr:1105855019:daf732c46d06",
       "gameSlug": "app-1105855019",
       "gameName": "Gardenscapes",
-      "name": "디스코 타임",
-      "price": 49000,
+      "name": "동전 5500개",
+      "price": 7700,
+      "currencyAmount": 5500,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1105855019:3546a0bc05f5",
+      "gameSlug": "app-1105855019",
+      "gameName": "Gardenscapes",
+      "name": "정원 키트",
+      "price": 3300,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
@@ -6278,11 +6278,11 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1105855019:4d055e01e185",
+      "sourceId": "appstore-kr:1105855019:ed00ee1c2bb1",
       "gameSlug": "app-1105855019",
       "gameName": "Gardenscapes",
-      "name": "디스코 타임",
-      "price": 33000,
+      "name": "시즌 패스",
+      "price": 17000,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
