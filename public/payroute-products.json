@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T10:50:25.845Z",
+  "updatedAt": "2026-09-12T11:47:52.697Z",
   "source": "Official web stores + Apple App Store KR",
   "currency": "KRW",
   "selectionPolicy": {
@@ -6125,12 +6125,12 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1105855019:0b3b1cf140b0",
+      "sourceId": "appstore-kr:1105855019:05c1752e836a",
       "gameSlug": "app-1105855019",
       "gameName": "Gardenscapes",
-      "name": "동전 1000개",
-      "price": 3300,
-      "currencyAmount": 1000,
+      "name": "디스코 타임",
+      "price": 25000,
+      "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
       "platformPriceDifferent": true,
@@ -6142,12 +6142,12 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1105855019:71fc26363b52",
+      "sourceId": "appstore-kr:1105855019:9d5a1560fb8d",
       "gameSlug": "app-1105855019",
       "gameName": "Gardenscapes",
-      "name": "동전 1000개",
+      "name": "디스코 타임",
       "price": 1100,
-      "currencyAmount": 1000,
+      "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
       "platformPriceDifferent": true,
@@ -6159,10 +6159,27 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1105855019:1495604b2a78",
+      "sourceId": "appstore-kr:1105855019:f44cba628018",
       "gameSlug": "app-1105855019",
       "gameName": "Gardenscapes",
-      "name": "황금 저금통",
+      "name": "디스코 타임",
+      "price": 3300,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1105855019:a207a885fdd2",
+      "gameSlug": "app-1105855019",
+      "gameName": "Gardenscapes",
+      "name": "디스코 타임",
       "price": 4400,
       "currencyAmount": 0,
       "maxQuantity": null,
@@ -6176,112 +6193,10 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1105855019:0fa977c7f870",
+      "sourceId": "appstore-kr:1105855019:d803ebde27b7",
       "gameSlug": "app-1105855019",
       "gameName": "Gardenscapes",
-      "name": "파격 할인",
-      "price": 3300,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1105855019:957df23d3c53",
-      "gameSlug": "app-1105855019",
-      "gameName": "Gardenscapes",
-      "name": "식물학자 키트",
-      "price": 9900,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1105855019:1a0359fd9965",
-      "gameSlug": "app-1105855019",
-      "gameName": "Gardenscapes",
-      "name": "정원 키트",
-      "price": 1100,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1105855019:c57428eb9c3d",
-      "gameSlug": "app-1105855019",
-      "gameName": "Gardenscapes",
-      "name": "황금 티켓",
-      "price": 7700,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1105855019:daf732c46d06",
-      "gameSlug": "app-1105855019",
-      "gameName": "Gardenscapes",
-      "name": "동전 5500개",
-      "price": 7700,
-      "currencyAmount": 5500,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1105855019:3546a0bc05f5",
-      "gameSlug": "app-1105855019",
-      "gameName": "Gardenscapes",
-      "name": "정원 키트",
-      "price": 3300,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1105855019:ed00ee1c2bb1",
-      "gameSlug": "app-1105855019",
-      "gameName": "Gardenscapes",
-      "name": "시즌 패스",
+      "name": "디스코 타임",
       "price": 17000,
       "currencyAmount": 0,
       "maxQuantity": null,
@@ -6295,11 +6210,11 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1366526331:232c8e294438",
-      "gameSlug": "app-1366526331",
-      "gameName": "배틀그라운드",
-      "name": "60UnknownCash",
-      "price": 1100,
+      "sourceId": "appstore-kr:1105855019:5abe17fc92ba",
+      "gameSlug": "app-1105855019",
+      "gameName": "Gardenscapes",
+      "name": "디스코 타임",
+      "price": 22000,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
@@ -6308,15 +6223,15 @@
       "marketNames": [
         "애플 앱스토어"
       ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1366526331",
+      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1366526331:0327becf0169",
-      "gameSlug": "app-1366526331",
-      "gameName": "배틀그라운드",
-      "name": "180UnknownCash",
-      "price": 4400,
+      "sourceId": "appstore-kr:1105855019:f9d9292db732",
+      "gameSlug": "app-1105855019",
+      "gameName": "Gardenscapes",
+      "name": "디스코 타임",
+      "price": 6600,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
@@ -6325,15 +6240,15 @@
       "marketNames": [
         "애플 앱스토어"
       ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1366526331",
+      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1366526331:ff096f22e0b5",
-      "gameSlug": "app-1366526331",
-      "gameName": "배틀그라운드",
-      "name": "600UnknownCash",
-      "price": 14000,
+      "sourceId": "appstore-kr:1105855019:f329abbbf03f",
+      "gameSlug": "app-1105855019",
+      "gameName": "Gardenscapes",
+      "name": "디스코 타임",
+      "price": 7700,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
@@ -6342,14 +6257,31 @@
       "marketNames": [
         "애플 앱스토어"
       ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1366526331",
+      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1366526331:0ba8ce9c6485",
-      "gameSlug": "app-1366526331",
-      "gameName": "배틀그라운드",
-      "name": "1500UnknownCash",
+      "sourceId": "appstore-kr:1105855019:1dce700a0a0f",
+      "gameSlug": "app-1105855019",
+      "gameName": "Gardenscapes",
+      "name": "디스코 타임",
+      "price": 49000,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1105855019:4d055e01e185",
+      "gameSlug": "app-1105855019",
+      "gameName": "Gardenscapes",
+      "name": "디스코 타임",
       "price": 33000,
       "currencyAmount": 0,
       "maxQuantity": null,
@@ -6359,15 +6291,15 @@
       "marketNames": [
         "애플 앱스토어"
       ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1366526331",
+      "sourceUrl": "https://apps.apple.com/kr/app/id1105855019",
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1366526331:eb021c6c7694",
+      "sourceId": "appstore-kr:1366526331:f1398e4e38ce",
       "gameSlug": "app-1366526331",
       "gameName": "배틀그라운드",
-      "name": "2950UnknownCash",
-      "price": 66000,
+      "name": "2026 할로윈 팩",
+      "price": 7700,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
@@ -6380,10 +6312,44 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1366526331:296fc3e1f782",
+      "sourceId": "appstore-kr:1366526331:4e4e62a75a7e",
       "gameSlug": "app-1366526331",
       "gameName": "배틀그라운드",
-      "name": "5900UnknownCash",
+      "name": "Kuzuha Pack",
+      "price": 7700,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1366526331",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1366526331:bf3878669954",
+      "gameSlug": "app-1366526331",
+      "gameName": "배틀그라운드",
+      "name": "App Store 2026 Summer Campaign",
+      "price": 2200,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1366526331",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1366526331:bfa9749203c2",
+      "gameSlug": "app-1366526331",
+      "gameName": "배틀그라운드",
+      "name": "6000CRAFTGROUND Coin",
       "price": 149000,
       "currencyAmount": 0,
       "maxQuantity": null,
@@ -6397,11 +6363,11 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1366526331:619935fca8e7",
+      "sourceId": "appstore-kr:1366526331:2d5557fefb6d",
       "gameSlug": "app-1366526331",
       "gameName": "배틀그라운드",
-      "name": "월정액 고급권(구독)",
-      "price": 9900,
+      "name": "3000CRAFTGROUND Coin",
+      "price": 66000,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
@@ -6414,11 +6380,11 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1366526331:a905d25867bb",
+      "sourceId": "appstore-kr:1366526331:eb3c29f00d52",
       "gameSlug": "app-1366526331",
       "gameName": "배틀그라운드",
-      "name": "천원의 행복",
-      "price": 1100,
+      "name": "1500CRAFTGROUND Coin",
+      "price": 33000,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
@@ -6431,11 +6397,11 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1366526331:afb02cd438cf",
+      "sourceId": "appstore-kr:1366526331:f992dc2cac24",
       "gameSlug": "app-1366526331",
       "gameName": "배틀그라운드",
-      "name": "데일리 스페셜 번들",
-      "price": 400,
+      "name": "600CRAFTGROUND Coin",
+      "price": 14000,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
@@ -6448,10 +6414,27 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1366526331:75dbdc6e96c9",
+      "sourceId": "appstore-kr:1366526331:9a60ad41a0da",
       "gameSlug": "app-1366526331",
       "gameName": "배틀그라운드",
-      "name": "데일리 행운 패키지A",
+      "name": "300CRAFTGROUND Coin",
+      "price": 5900,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1366526331",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1366526331:5ac6799ca092",
+      "gameSlug": "app-1366526331",
+      "gameName": "배틀그라운드",
+      "name": "60CRAFTGROUND Coin",
       "price": 1100,
       "currencyAmount": 0,
       "maxQuantity": null,
@@ -6805,27 +6788,10 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1480616990:28eaac6f4700",
+      "sourceId": "appstore-kr:1480616990:c149a8dbef11",
       "gameSlug": "app-1480616990",
       "gameName": "리그 오브 레전드: 와일드 리프트",
-      "name": "1000 와일드 코어",
-      "price": 15000,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1480616990",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1480616990:9eab750b8800",
-      "gameSlug": "app-1480616990",
-      "gameName": "리그 오브 레전드: 와일드 리프트",
-      "name": "프라임",
+      "name": "특별한 세트",
       "price": 6800,
       "currencyAmount": 0,
       "maxQuantity": null,
@@ -6839,96 +6805,11 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1480616990:c80150ee92ac",
-      "gameSlug": "app-1480616990",
-      "gameName": "리그 오브 레전드: 와일드 리프트",
-      "name": "1850 와일드 코어",
-      "price": 27500,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1480616990",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1480616990:4847a4c8a695",
-      "gameSlug": "app-1480616990",
-      "gameName": "리그 오브 레전드: 와일드 리프트",
-      "name": "425 와일드 코어",
-      "price": 6800,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1480616990",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1480616990:759657f32744",
-      "gameSlug": "app-1480616990",
-      "gameName": "리그 오브 레전드: 와일드 리프트",
-      "name": "10000 와일드 코어",
-      "price": 135000,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1480616990",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1480616990:75245c77cfb6",
-      "gameSlug": "app-1480616990",
-      "gameName": "리그 오브 레전드: 와일드 리프트",
-      "name": "3275 와일드 코어",
-      "price": 47500,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1480616990",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1480616990:8ca713a99815",
+      "sourceId": "appstore-kr:1480616990:fdf3a1c83942",
       "gameSlug": "app-1480616990",
       "gameName": "리그 오브 레전드: 와일드 리프트",
       "name": "프라임 플러스",
-      "price": 47500,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1480616990",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1480616990:5a88db28657a",
-      "gameSlug": "app-1480616990",
-      "gameName": "리그 오브 레전드: 와일드 리프트",
-      "name": "4800 와일드 코어",
-      "price": 68000,
+      "price": 49000,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
@@ -6958,10 +6839,163 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1117270703:5dff3288f86c",
+      "sourceId": "appstore-kr:1480616990:8ca713a99815",
+      "gameSlug": "app-1480616990",
+      "gameName": "리그 오브 레전드: 와일드 리프트",
+      "name": "프라임 플러스",
+      "price": 47500,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1480616990",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1480616990:9eab750b8800",
+      "gameSlug": "app-1480616990",
+      "gameName": "리그 오브 레전드: 와일드 리프트",
+      "name": "프라임",
+      "price": 6800,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1480616990",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1480616990:31d8e80d16fd",
+      "gameSlug": "app-1480616990",
+      "gameName": "리그 오브 레전드: 와일드 리프트",
+      "name": "1850 와일드 코어",
+      "price": 29000,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1480616990",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1480616990:230fba687189",
+      "gameSlug": "app-1480616990",
+      "gameName": "리그 오브 레전드: 와일드 리프트",
+      "name": "10000 와일드 코어",
+      "price": 129000,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1480616990",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1480616990:95be874f6f2a",
+      "gameSlug": "app-1480616990",
+      "gameName": "리그 오브 레전드: 와일드 리프트",
+      "name": "425 와일드 코어",
+      "price": 6600,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1480616990",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1480616990:21ba650b85a5",
+      "gameSlug": "app-1480616990",
+      "gameName": "리그 오브 레전드: 와일드 리프트",
+      "name": "4800 와일드 코어",
+      "price": 66000,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1480616990",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1480616990:799ead9b17fd",
+      "gameSlug": "app-1480616990",
+      "gameName": "리그 오브 레전드: 와일드 리프트",
+      "name": "3275 와일드 코어",
+      "price": 49000,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1480616990",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1117270703:859250531525",
       "gameSlug": "app-1117270703",
       "gameName": "eFootball™",
-      "name": "1040Coins(Paid975+Free65)",
+      "name": "Starter Set: Iker Casillas",
+      "price": 3000,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1117270703",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1117270703:77b4d5a6435a",
+      "gameSlug": "app-1117270703",
+      "gameName": "eFootball™",
+      "name": "Starter Set: Luis Suárez",
+      "price": 1000,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1117270703",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1117270703:55dc7a08bb86",
+      "gameSlug": "app-1117270703",
+      "gameName": "eFootball™",
+      "name": "1630Coins(Paid975+Free655)",
       "price": 12000,
       "currencyAmount": 0,
       "maxQuantity": null,
@@ -6975,10 +7009,10 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1117270703:ffb905beab20",
+      "sourceId": "appstore-kr:1117270703:573556600949",
       "gameSlug": "app-1117270703",
       "gameName": "eFootball™",
-      "name": "550Coins(Paid530+Free20)",
+      "name": "840Coins(Paid530+Free310)",
       "price": 6500,
       "currencyAmount": 0,
       "maxQuantity": null,
@@ -6992,10 +7026,10 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1117270703:363261d0e10d",
+      "sourceId": "appstore-kr:1117270703:7df504912344",
       "gameSlug": "app-1117270703",
       "gameName": "eFootball™",
-      "name": "130Coins(PaidCoins130)",
+      "name": "260Coins(Paid130+Free130)",
       "price": 1600,
       "currencyAmount": 0,
       "maxQuantity": null,
@@ -7009,214 +7043,10 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:1117270703:8c0b0291648e",
+      "sourceId": "appstore-kr:1117270703:2be0cfbfb0ef",
       "gameSlug": "app-1117270703",
       "gameName": "eFootball™",
-      "name": "2130Coins(Paid1950+Free180)",
-      "price": 24000,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1117270703",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1117270703:e5c11083c642",
-      "gameSlug": "app-1117270703",
-      "gameName": "eFootball™",
-      "name": "myClub 코인 100개",
-      "price": 1100,
-      "currencyAmount": 100,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1117270703",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1117270703:ce909f0d8f11",
-      "gameSlug": "app-1117270703",
-      "gameName": "eFootball™",
-      "name": "3250Coins(Paid2930+Free320)",
-      "price": 36000,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1117270703",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1117270703:9713ef0d2532",
-      "gameSlug": "app-1117270703",
-      "gameName": "eFootball™",
-      "name": "300Coins(Paid293+Free7)",
-      "price": 3600,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1117270703",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1117270703:eda69293ae00",
-      "gameSlug": "app-1117270703",
-      "gameName": "eFootball™",
-      "name": "myClub 코인 310개",
-      "price": 4400,
-      "currencyAmount": 310,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1117270703",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1117270703:8ff431786c73",
-      "gameSlug": "app-1117270703",
-      "gameName": "eFootball™",
-      "name": "myClub 코인 1,050개",
-      "price": 17000,
-      "currencyAmount": 1050,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1117270703",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:1117270703:793c9e137399",
-      "gameSlug": "app-1117270703",
-      "gameName": "eFootball™",
-      "name": "750Coins(Paid715+Free35)",
-      "price": 8800,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id1117270703",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:6741567125:e926373ae7ed",
-      "gameSlug": "app-6741567125",
-      "gameName": "뚜까펫: 서바이벌",
-      "name": "$4.99 Pack",
-      "price": 7500,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id6741567125",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:6741567125:17350ad38a2e",
-      "gameSlug": "app-6741567125",
-      "gameName": "뚜까펫: 서바이벌",
-      "name": "$2.99 Pack",
-      "price": 4500,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id6741567125",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:6741567125:75d2a184d391",
-      "gameSlug": "app-6741567125",
-      "gameName": "뚜까펫: 서바이벌",
-      "name": "$9.99 Pack",
-      "price": 15000,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id6741567125",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:6741567125:4786efbb6f1d",
-      "gameSlug": "app-6741567125",
-      "gameName": "뚜까펫: 서바이벌",
-      "name": "$19.99 Pack",
-      "price": 30000,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id6741567125",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:6741567125:eac307cb480b",
-      "gameSlug": "app-6741567125",
-      "gameName": "뚜까펫: 서바이벌",
-      "name": "$14.99 Pack",
-      "price": 22500,
-      "currencyAmount": 0,
-      "maxQuantity": null,
-      "platform": "ios",
-      "platformPriceDifferent": true,
-      "priceComparisonStatus": "apple-only",
-      "marketNames": [
-        "애플 앱스토어"
-      ],
-      "sourceUrl": "https://apps.apple.com/kr/app/id6741567125",
-      "confidence": "structured"
-    },
-    {
-      "sourceId": "appstore-kr:6741567125:296b664da075",
-      "gameSlug": "app-6741567125",
-      "gameName": "뚜까펫: 서바이벌",
-      "name": "Tier 2 Offer",
+      "name": "Starter Set: David Alaba",
       "price": 3000,
       "currencyAmount": 0,
       "maxQuantity": null,
@@ -7226,15 +7056,66 @@
       "marketNames": [
         "애플 앱스토어"
       ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1117270703",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:1117270703:c5e23763dedd",
+      "gameSlug": "app-1117270703",
+      "gameName": "eFootball™",
+      "name": "Starter Set: Darwin Núñez",
+      "price": 1000,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id1117270703",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:6741567125:ae2fb648cf3f",
+      "gameSlug": "app-6741567125",
+      "gameName": "뚜까펫: 서바이벌",
+      "name": "$199.99 Pack",
+      "price": 300000,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
       "sourceUrl": "https://apps.apple.com/kr/app/id6741567125",
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:6741567125:a9b2d9e23c1e",
+      "sourceId": "appstore-kr:6741567125:ac9998422342",
       "gameSlug": "app-6741567125",
       "gameName": "뚜까펫: 서바이벌",
-      "name": "$29.99 Pack",
-      "price": 45000,
+      "name": "$129.99 Pack",
+      "price": 195000,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id6741567125",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:6741567125:289ce1e8406c",
+      "gameSlug": "app-6741567125",
+      "gameName": "뚜까펫: 서바이벌",
+      "name": "$149.99 Pack",
+      "price": 225000,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
@@ -7281,11 +7162,79 @@
       "confidence": "structured"
     },
     {
-      "sourceId": "appstore-kr:6741567125:12b25d488b32",
+      "sourceId": "appstore-kr:6741567125:9c7c3da6c065",
       "gameSlug": "app-6741567125",
       "gameName": "뚜까펫: 서바이벌",
-      "name": "$6.99 Pack",
-      "price": 10500,
+      "name": "$79.99 Pack",
+      "price": 120000,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id6741567125",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:6741567125:3c3b3ce0b34f",
+      "gameSlug": "app-6741567125",
+      "gameName": "뚜까펫: 서바이벌",
+      "name": "$69.99 Pack",
+      "price": 105000,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id6741567125",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:6741567125:a9b2d9e23c1e",
+      "gameSlug": "app-6741567125",
+      "gameName": "뚜까펫: 서바이벌",
+      "name": "$29.99 Pack",
+      "price": 45000,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id6741567125",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:6741567125:6ce379f8f12d",
+      "gameSlug": "app-6741567125",
+      "gameName": "뚜까펫: 서바이벌",
+      "name": "$34.99 Pack",
+      "price": 52500,
+      "currencyAmount": 0,
+      "maxQuantity": null,
+      "platform": "ios",
+      "platformPriceDifferent": true,
+      "priceComparisonStatus": "apple-only",
+      "marketNames": [
+        "애플 앱스토어"
+      ],
+      "sourceUrl": "https://apps.apple.com/kr/app/id6741567125",
+      "confidence": "structured"
+    },
+    {
+      "sourceId": "appstore-kr:6741567125:bbac831e120c",
+      "gameSlug": "app-6741567125",
+      "gameName": "뚜까펫: 서바이벌",
+      "name": "$39.99 Pack",
+      "price": 60000,
       "currencyAmount": 0,
       "maxQuantity": null,
       "platform": "ios",
