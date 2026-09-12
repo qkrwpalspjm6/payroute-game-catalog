@@ -1,0 +1,10 @@
+{
+  "name": "payroute-game-catalog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "refresh": "node scripts/import-appstore-products.mjs",
+    "validate": "node scripts/validate-catalog.mjs"
+  }
+}
